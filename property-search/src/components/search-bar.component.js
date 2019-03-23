@@ -12,7 +12,7 @@ export default class SearchBar extends Component {
           <div className="row">
             <div className="col-md-3 p-3">
               <label>Latitude Left:</label>
-              <input type="text" className="form-control"/>
+              <input type="text" className="form-control" />
             </div>
             <div className="col-md-3 p-3">
               <label>Latitude Right:</label>
